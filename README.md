@@ -1,4 +1,4 @@
-### DCC Fracture Kinetic (DFK) code
+# DCC Fracture Kinetic (DFK) code
 
 * Created by Dr Elijah Borodion (University of Manchester) in 2022 *
 
