@@ -1,4 +1,4 @@
-# DCC Fracture Kinetic (DFK) code
+# Discrete Cell Complex (DCC) Fracture Kinetic code
 
 * Created by Dr Elijah Borodion (University of Manchester) in 2022 *
 
