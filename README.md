@@ -61,5 +61,5 @@ This code was created by Dr Elijah Borodin in 2022 for the project RSF 18-19-002
 The code is distributed under the GNU General Public License v3.0. See LICENSE.txt for more information.
 
 <h2> Contacts </h2>
-Dr Elijah Borodin (Research Fellow in Materials Physics at the University of Manchester; Mechanics and Physics of Solids research group).
+Dr Elijah Borodin (Research Fellow in Materials Physics at the University of Manchester; Mechanics and Physics of Solids research group)
 <a href="mailto: Elijah.Borodin@icloud.com" target="_blank"> Send e-mail</a> <br>
