@@ -1,3 +1,0 @@
-/Users/user/Dropbox/OFFICE/EGitHub/PCC_Processing_Design_tool/cmake-build-debug/CMakeFiles/PCC_Processing_Design_tool.dir
-/Users/user/Dropbox/OFFICE/EGitHub/PCC_Processing_Design_tool/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/user/Dropbox/OFFICE/EGitHub/PCC_Processing_Design_tool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
