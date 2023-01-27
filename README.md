@@ -47,7 +47,7 @@ All the input files must be in a single folder specified as the ‘input’ dire
 An excellent simple introduction to the DCC with their various applications is given in the <a href="https://link.springer.com/book/10.1007/978-1-84996-290-2" target="_blank"> book </a> of Leo Grady and Jonathan Polimeni _“Discrete Calculus. Applied Analysis on Graphs for Computational Science. (2010)_
 
 <h2> Where to take a complex? </h2>
-Polyhedral cell complexes are pretty well-known mathematical objects that originated from the field of modern algebraic topology, so they can be obtained in many various ways. One <a href="https://github.com/PRISBteam/Voronoi_DCC_Analyser" target="_blank"> useful tool </a>, developed in the Mechanics and Physics of Solids research group at the University of Manchester, provides PCCs based on the Voronoi and a few others tessellations of 2D/3D spaces by convex polygons. 
+Polyhedral cell complexes are pretty well-known mathematical objects that originated from the field of modern algebraic topology, so they can be obtained in many various ways. One <a href="https://github.com/PRISBteam/Voronoi_DCC_Analyser" target="_blank">useful tool</a>, developed in the Mechanics and Physics of Solids research group at the University of Manchester, provides PCCs based on the Voronoi and a few others tessellations of 2D/3D spaces by convex polygons. 
 
 <h2> Applications of the DСD tool </h2>
 <ol>
@@ -61,5 +61,5 @@ This code was created by Dr Elijah Borodin in 2022 for the project RSF 18-19-002
 The code is distributed under the GNU General Public License v3.0. See LICENSE.txt for more information.
 
 <h2> Contacts </h2>
-Dr Elijah Borodin (Research Fellow in Materials Physics at the University of Manchester; Mechanics and Physics of Solids research group)
-<a href=“ Elijah.Borodin@icloud.com” Send e-mail> to Elijah Borodin (any queries regarding the code) 
+Dr Elijah Borodin (Research Fellow in Materials Physics at the University of Manchester; Mechanics and Physics of Solids research group).
+<a href=“ Elijah.Borodin@icloud.com”> Send e-mail</a>
