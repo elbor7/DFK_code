@@ -47,12 +47,7 @@ All the input files must be in a single folder specified as the ‘input’ dire
 An excellent simple introduction to the DCC with their various applications is given in the <a href="https://link.springer.com/book/10.1007/978-1-84996-290-2" target="_blank"> book </a> of Leo Grady and Jonathan Polimeni _“Discrete Calculus. Applied Analysis on Graphs for Computational Science. (2010)_
 
 <h2> Where to take a complex? </h2>
-The discrete cell complex is a pretty well-known object that originated from the field of algebraic topology, so it can be obtained in many various ways Below is just a concise review of a couple of flexible tools developed in the Mechanics and Physics of Solids research group in the University of Manchester providing DCCs based on Voronoi and a few others tessellations of space by convex polygons. 
-
-<h3> Tessellations of space provided by Neper software </h3>
-The Voronoi tesselation provided by Neper supposed to be a <i>dual</i> complex and so all the other tessellations provided by the Neper output with the <a href="https://neper.info/doc/neper_t.html#morphology-options" target="_blank"> morphology </a> option <i> -morpho <morphology> </i> like <i> cube, square, tocta, lamellar, etc. </i> different from <i>voronoi</i>.
-
-Please, see more <a href="https://neper.info/doc/neper_t.html#examples" target="_blank"> examples </a> on the Neper webpage.
+Polyhedral cell complexes are pretty well-known mathematical objects that originated from the field of modern algebraic topology, so they can be obtained in many various ways. One <a href="https://github.com/PRISBteam/Voronoi_DCC_Analyser" target="_blank"> useful tool </a>, developed in the Mechanics and Physics of Solids research group at the University of Manchester, provides PCCs based on the Voronoi and a few others tessellations of 2D/3D spaces by convex polygons. 
 
 <h2> Applications of the DСD tool </h2>
 <ol>
