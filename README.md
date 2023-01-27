@@ -41,8 +41,7 @@ All the input files must be in a single folder specified as the ‘input’ dire
 <ol>
 <li> ‘input’ directory address </li>
 <li>  ‘output’ directory address </li>
-<li>   the number of calculation points for different values of <i>p</i></li>
-and other parameters necessary for the code</li>
+<li>   the number of calculation points for different values of <i>p</i></li> and other parameters necessary for the code</li>
  </p>
 
 
