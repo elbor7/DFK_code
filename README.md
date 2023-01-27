@@ -17,35 +17,6 @@ The code works both with 3-complexes (3D) and 2-complexes (2D) BUT - to make res
 <p>The code is written and tested in C++ 17 with the parallelised verson used some features of C++ 20. It explicitly uses the Eigen and Spectra libraries, which must be <a href="https://spectralib.org/download.html"> downloaded</a> and copied to the directory containing all the STL C++ libraries on the local PC. The code works well and has been tested using CMake 3.23 (cmake.org), g++ compiler (gcc.gnu.org) and CLion IDE (jetbrains.com/clion).
 
 The computational costs of different calculation types, functions and tasks are hugely different: for instance, the component analysis or the Metropolis algorithm-based simulations are very time-consuming procedures, while the random generation of special chains is fast.<\p>
-
-<h2>Basic definitions</h2>
-
-<p> 
-<ol>
-  <li>Polyhedral cell complex (PCC): </li>
-  <li>k-Cells: </li>
-  <li>Nodes: </li>
-  <li>Edges: </li>
-  <li>Faces: </li>
-  <li>Volumes: </li>
-  <li>cell number: </li>
-  <li>cell fraction: </li>
-  <li>Ordinary cells: including OCellsNumb or  OrdinaryCellNumbs; related variables New2CellNumb </li>
-  <li>Special cells: including SCellsNumb or  SpecialCellNumbs </li>
-  <li>sfaces_sequence</li>
-  <li>cfaces_sequence</li>
-  <li>induced topology of the defect structure: </li>
-  <li>State_sVector: If there are several types of special k-cells, only a pair of s_faces_sequence and State_sVector describing types for each of them </li>
-  <li>element types: including NewFaceType</li>
-  <li>Normal and reduced Incidence and Adjacency matrices</li>
-  <li>Subcomplex: including Plane cut (a, b, c, D), (reduced (k-1)-complex)</li>
-  <li>k-Skeleton: </li>
-  <li>k-Chain: </li>
-  <li>k-sChain: </li>
-  <li>k-cChain: </li> 
-</ol>
-  </p>
-  
   
 <h2>Modules</h2>
 All the modules except the main.cpp consist of the <i>interface<\i> and the core <i>library<\i> parts. The interfaces contain pre- and post-processing of data for this particular module, adapting input from the main.cpp, and managing the function implementations according to the calculation types specified in the configuration file. 
@@ -73,7 +44,8 @@ All the input files must be in a single folder specified as the ‘input’ dire
 <li>   the number of calculation points for different values of <i>p</i></li>
 and other parameters necessary for the code</li>
  </p>
-  
+
+
 <h2> More sources on the mathematics related to the Polyhedral cell complexes</h2>
 An excellent simple introduction to the DCC with their various applications is given in the <a href="https://link.springer.com/book/10.1007/978-1-84996-290-2" target="_blank"> book </a> of Leo Grady and Jonathan Polimeni _“Discrete Calculus. Applied Analysis on Graphs for Computational Science. (2010)_
 
