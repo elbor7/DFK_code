@@ -1,0 +1,21 @@
+%Grain boundary energies 
+1.0	| GB_surface_energy [J/m2]	| @ |
+2.0	| GB_adhesion_energy [J/m2]	| & |
+1.0	| GB_inclusion_adhesion_energy [J/m2]		| ! |
+0.4 	| GB_agglomeration_adhesion_energy [J/m2]	| ? |
+300.0	| Grain_size [nm]				| ~ |
+
+%Ceramic composite Al_2O_3 with rGO inclusions:
+0.014	| Cm [nm^-1]	| $ |
+3.0	| hm [nm] 	| ` |
+3990.0 	| matrix_density [kg/m^3]	| ^ |
+2266.0	| rGO_density [kg/m^3]		| £ |
+215.0	| Young_modulus [GPa]		| $ | 
+
+%Stress_tensor components [MPa]:
+100.0	| s11 	| . |
+0.0	| s12 	| : |
+0.0	| s13 	| ; |
+100.0	| s22 	| " |
+0.0	| s23 	| ( |
+100.0	| s33 	| ) |
