@@ -63,7 +63,7 @@ All the modules except the main.cpp consist of the <i>interface<\i> and the core
 </ol>
 
 <h3> Input files </h3>
-
+ <p>
 All the input files must be in a single folder specified as the ‘input’ directory in the ‘config.txt’ file.
 
 <i>config.txt</i> file contains
@@ -72,6 +72,7 @@ All the input files must be in a single folder specified as the ‘input’ dire
 <li>  ‘output’ directory address </li>
 <li>   the number of calculation points for different values of <i>p</i></li>
 and other parameters necessary for the code</li>
+ </p>
   
 <h2> More sources on the mathematics related to the Polyhedral cell complexes</h2>
 An excellent simple introduction to the DCC with their various applications is given in the <a href="https://link.springer.com/book/10.1007/978-1-84996-290-2" target="_blank"> book </a> of Leo Grady and Jonathan Polimeni _“Discrete Calculus. Applied Analysis on Graphs for Computational Science. (2010)_
